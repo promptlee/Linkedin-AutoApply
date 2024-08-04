@@ -1,0 +1,399 @@
+{
+    "staffingCompany": false,
+    "companyIndustries": [
+        {
+            "localizedName": "Restaurants",
+            "entityUrn": "urn:li:fs_industry:32"
+        }
+    ],
+    "callToAction": {
+        "callToActionType": "LEARN_MORE",
+        "visible": true,
+        "callToActionMessage": {
+            "textDirection": "USER_LOCALE",
+            "text": "Learn more"
+        },
+        "url": "http://www.SushiMaki.com"
+    },
+    "staffCount": 218,
+    "adsRule": "STANDARD",
+    "companyEmployeesSearchPageUrl": "https://www.linkedin.com/vsearch/p?f_CC=2943927",
+    "viewerFollowingJobsUpdates": false,
+    "staffCountRange": {
+        "start": 201,
+        "end": 500
+    },
+    "permissions": {
+        "landingPageAdmin": false,
+        "admin": false,
+        "adAccountHolder": false
+    },
+    "logo": {
+        "image": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0/1630574641311/sushi_maki_logo?e=1730332800&v=beta&t=ygQxBYD0BsRFaHyXSKs0hcGc1NufCobbKBe8fSh_fes",
+                        "expiresAt": 1730332800000,
+                        "height": 200
+                    },
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0/1630574641311/sushi_maki_logo?e=1730332800&v=beta&t=J2zdAzUIGeqVGrxOQ9FG1CyRKy9WHZbL93G50O1uRDE",
+                        "expiresAt": 1730332800000,
+                        "height": 100
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0/1630574641311/sushi_maki_logo?e=1730332800&v=beta&t=lK8kGQ6Sb5UBcvuH1jtqLrCq4svjF353hAGNXGcl_54",
+                        "expiresAt": 1730332800000,
+                        "height": 400
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEmVRClBGsHNA/company-logo_"
+            }
+        },
+        "type": "SQUARE_LOGO"
+    },
+    "claimable": false,
+    "specialities": [
+        "sushi",
+        "asian cuisine",
+        "maki",
+        "sashimi",
+        "sushi rolls",
+        "family",
+        "food",
+        "bubble tea",
+        "Japanese cuisine",
+        "catering"
+    ],
+    "confirmedLocations": [
+        {
+            "country": "US",
+            "geographicArea": "Florida",
+            "city": "Medley",
+            "postalCode": "33166",
+            "description": "Sushi Maki •  HQ",
+            "streetAddressOptOut": false,
+            "headquarter": true,
+            "line2": "Suite 100",
+            "line1": "8085 NW 90th St"
+        },
+        {
+            "country": "US",
+            "geographicArea": "Florida",
+            "city": "Miami",
+            "postalCode": "33143",
+            "description": "Sushi Maki • South Miami",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "5812 Sunset Dr"
+        },
+        {
+            "country": "US",
+            "geographicArea": "Florida",
+            "city": "Miami",
+            "postalCode": "33176",
+            "description": "Sushi Maki • Palmetto Bay",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "14491 S Dixie Hwy"
+        },
+        {
+            "country": "US",
+            "geographicArea": "Florida",
+            "city": "Miami",
+            "postalCode": "33176",
+            "description": "Sushi Maki • Kendall",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "11531 SW 88th St"
+        },
+        {
+            "country": "US",
+            "geographicArea": "Florida",
+            "city": "Miami",
+            "postalCode": "33133",
+            "description": "Sushi Maki • Coconut Grove",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "2550 S Bayshore Dr"
+        },
+        {
+            "country": "US",
+            "geographicArea": "Florida",
+            "city": "Miami",
+            "postalCode": "33143",
+            "description": "Sushi Maki •  Dadeland",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "6661 S Dixie Hwy"
+        },
+        {
+            "country": "US",
+            "geographicArea": "Florida",
+            "city": "Coral Gables",
+            "postalCode": "33134",
+            "description": "Sushi Maki • Coral Gables",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "2334 Ponce de Leon Blvd"
+        }
+    ],
+    "followingInfo": {
+        "entityUrn": "urn:li:fs_followingInfo:urn:li:company:2943927",
+        "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:2943927",
+        "following": false,
+        "followingType": "DEFAULT",
+        "followerCount": 1529
+    },
+    "viewerEmployee": false,
+    "affiliatedCompaniesWithEmployeesRollup": [],
+    "lcpTreatment": false,
+    "affiliatedCompaniesWithJobsRollup": [],
+    "associatedHashtagsResolutionResults": {
+        "urn:li:fs_contentTopicData:urn:li:hashtag:miami": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#miami",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "ÐAä¦\u0005R@è¤îe<£\u0005",
+                    "backendUrn": "urn:li:hashtag:miami"
+                },
+                "tracking": {
+                    "trackingId": "0EHkpgVSQOik7odliDyjBQ=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:miami,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:miami",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:miami",
+                    "followerCount": 5382,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:(miami,urn:li:activity:-)",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:miami"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        },
+        "urn:li:fs_contentTopicData:urn:li:hashtag:sushi": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#sushi",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "\u0014\n©Jo¼b°Øà ",
+                    "backendUrn": "urn:li:hashtag:sushi"
+                },
+                "tracking": {
+                    "trackingId": "hBQKlamfSm+8YrDYhZzgIA=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:sushi,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:sushi",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:sushi",
+                    "followerCount": 540,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:(sushi,urn:li:activity:-)",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:sushi"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        },
+        "urn:li:fs_contentTopicData:urn:li:hashtag:sushimaki": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#sushimaki",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "¶aX÷ýK»±{é#{",
+                    "backendUrn": "urn:li:hashtag:sushimaki"
+                },
+                "tracking": {
+                    "trackingId": "tmFYkPf9S5m7sY+fe+kjew=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:sushimaki,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:sushimaki",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:sushimaki",
+                    "followerCount": 0,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:(sushimaki,urn:li:activity:-)",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:sushimaki"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        }
+    },
+    "phone": {
+        "number": "(305) 443-1884"
+    },
+    "name": "Sushi Maki",
+    "tagline": "Delicious Fishes. Positive Vibes & Healthier Lives!",
+    "$recipeType": "com.linkedin.voyager.deco.organization.web.WebFullCompanyMain",
+    "overviewPhoto": {
+        "com.linkedin.voyager.common.MediaProcessorImage": {
+            "id": "/p/1/000/201/030/1f3a340.png"
+        }
+    },
+    "multiLocaleTaglines": {
+        "localized": {
+            "en_US": "Delicious Fishes. Positive Vibes & Healthier Lives!"
+        },
+        "preferredLocale": {
+            "country": "US",
+            "language": "en"
+        }
+    },
+    "description": "CEO, Abe Ng founded Sushi Maki  in 2000. The restaurant has since been recognized as South Florida’s award-winning leader in innovative Japanese cuisine serving fresh, premium quality fare in a relaxed and modern environment.  We believe sushi should be approachable and fun for everyone!  Our mission is to be  the most trusted leader in branded sushi, embraced by health-conscious, luxe-leaning consumers through the operation of stylish sushi restaurants, branded kiosks, and a community-wide distribution ecosystem. \r\n\r\nOur approach is simple: Sushi Maki is passionate about providing the freshest and finest quality food.   We are the only sushi restaurant company in all of South Florida where all seafood is responsibly sourced, sustainable where possible, and free of any preservatives or artificial ingredients.  To these pristine ingredients, we add our own unique culinary creativity, spiced with Miami flavors resulting in a menu of diverse selections.  Sushi Maki believes in sushi as the food of the future:  healthy, balanced, portable, delicious, customizable, natural; the perfect food-on-the-go for the modern lifestyle.",
+    "entityUrn": "urn:li:fs_normalized_company:2943927",
+    "headquarter": {
+        "country": "US",
+        "geographicArea": "Florida",
+        "city": "Medley",
+        "postalCode": "33166",
+        "line2": "Suite 100",
+        "line1": "8085 NW 90th St"
+    },
+    "paidCompany": false,
+    "universalName": "gosushimaki",
+    "viewerPendingAdministrator": false,
+    "companyPageUrl": "http://www.SushiMaki.com",
+    "viewerConnectedToAdministrator": false,
+    "affiliatedCompanies": [],
+    "dataVersion": -1,
+    "foundedOn": {
+        "year": 2000
+    },
+    "companyType": {
+        "localizedName": "Privately Held",
+        "code": "PRIVATELY_HELD"
+    },
+    "coverPhoto": {
+        "com.linkedin.voyager.common.MediaProcessorImage": {
+            "id": "/p/1/000/201/030/1f3a340.png"
+        }
+    },
+    "associatedHashtags": [
+        "urn:li:fs_contentTopicData:urn:li:hashtag:sushi",
+        "urn:li:fs_contentTopicData:urn:li:hashtag:miami",
+        "urn:li:fs_contentTopicData:urn:li:hashtag:sushimaki"
+    ],
+    "groups": [
+        "urn:li:fs_normalized_group:958"
+    ],
+    "url": "https://www.linkedin.com/company/gosushimaki",
+    "groupsResolutionResults": {
+        "urn:li:fs_normalized_group:958": {
+            "groupName": "Cornell University Alumni Network",
+            "entityUrn": "urn:li:fs_normalized_group:958",
+            "memberCount": 67396,
+            "logo": {
+                "com.linkedin.common.VectorImage": {
+                    "artifacts": [
+                        {
+                            "width": 48,
+                            "fileIdentifyingUrlPathSegment": "48x48/0/1631006017620?e=1723053600&v=beta&t=ltlmVDKl9b_ZXSUaInKH2ydW8_25D4kmX_xX4gtKIp8",
+                            "expiresAt": 1723053600000,
+                            "height": 48
+                        },
+                        {
+                            "width": 200,
+                            "fileIdentifyingUrlPathSegment": "200x200/0/1631006017620?e=1723053600&v=beta&t=xlSsk2oqYL6d3X1QWsv9941PD7YuJeLUuoSreZlhZPw",
+                            "expiresAt": 1723053600000,
+                            "height": 200
+                        },
+                        {
+                            "width": 400,
+                            "fileIdentifyingUrlPathSegment": "400x400/0/1631006017620?e=1723053600&v=beta&t=c_BAT_w-HlTk2gGviDiPh53fEiFPOqSHA97ZbVBVGUg",
+                            "expiresAt": 1723053600000,
+                            "height": 400
+                        },
+                        {
+                            "width": 92,
+                            "fileIdentifyingUrlPathSegment": "92x92/0/1631006017620?e=1723053600&v=beta&t=oEX-Pzjcai4zJZJn1b4jbITJdSM7aK_mEC0LkEr05eA",
+                            "expiresAt": 1723053600000,
+                            "height": 92
+                        },
+                        {
+                            "width": 24,
+                            "fileIdentifyingUrlPathSegment": "24x24/0/1631006017620?e=1723053600&v=beta&t=tDseDgYHqMb73Niu4313rlDvJfPEFf_NCrwppUbO9Uc",
+                            "expiresAt": 1723053600000,
+                            "height": 24
+                        },
+                        {
+                            "width": 72,
+                            "fileIdentifyingUrlPathSegment": "72x72/0/1631006017620?e=1723053600&v=beta&t=TP0ivCckJY4ecpd0it9gXMNtoaUvgzICIX3WRfa6dWQ",
+                            "expiresAt": 1723053600000,
+                            "height": 72
+                        }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/C4E07AQGNefYsxghxiQ/group-logo_image-shrink_"
+                }
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebGroupCard",
+            "url": "https://www.linkedin.com/groups?gid=958"
+        }
+    },
+    "showcasePages": [],
+    "claimableByViewer": false,
+    "jobSearchPageUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=2943927",
+    "showcase": false,
+    "autoGenerated": false,
+    "backgroundCoverImage": {
+        "image": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 1820,
+                        "fileIdentifyingUrlPathSegment": "10000/0/1585350571129/sushi_maki_cover?e=1723053600&v=beta&t=BqU2-IuDMcGtkYcB_7_7smmTw04MYuhmHipDOsCz9No",
+                        "expiresAt": 1723053600000,
+                        "height": 1184
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400/0/1585350571173/sushi_maki_cover?e=1723053600&v=beta&t=cl72SnPaJl49kEnEZusfGKhrmdqT1xa_dPGEZMUbiDc",
+                        "expiresAt": 1723053600000,
+                        "height": 260
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200/0/1585350571230/sushi_maki_cover?e=1723053600&v=beta&t=OoMk3e9Y42YxN3vGOwABJc6QgNsDve1SefNp3MALT8k",
+                        "expiresAt": 1723053600000,
+                        "height": 130
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/C4E1BAQGo_f4X2RLe7w/company-background_"
+            }
+        },
+        "cropInfo": {
+            "x": 0,
+            "width": 1820,
+            "y": 534,
+            "height": 308
+        }
+    }
+}

@@ -1,0 +1,602 @@
+[
+    {
+        "trackingUrn": "urn:li:jobPosting:3892759420",
+        "repostedJob": true,
+        "title": "Outside Sales Representative - Comm Data",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "73053025",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3892759420"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3933170365",
+        "repostedJob": true,
+        "title": "Idaho Territory Sales Representative - Dairy",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "20228895",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3933170365"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992517518",
+        "repostedJob": false,
+        "title": "Dispositions Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "955681049",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM",
+        "entityUrn": "urn:li:fsd_jobPosting:3992517518"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992507957",
+        "repostedJob": false,
+        "title": "Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "564462177",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3992507957"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992507160",
+        "repostedJob": false,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "139455901",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3992507160"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992507286",
+        "repostedJob": false,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "18526174",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM",
+        "entityUrn": "urn:li:fsd_jobPosting:3992507286"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3954907247",
+        "repostedJob": true,
+        "title": "Sales Development Representative - Austin - September 2024",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "963212",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3954907247"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3993047601",
+        "repostedJob": false,
+        "title": "Sales Agent",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "4476741",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3993047601"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3894844655",
+        "repostedJob": true,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "73053025",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3894844655"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3975412513",
+        "repostedJob": true,
+        "title": "SaaS Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "619030208",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3975412513"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992090619",
+        "repostedJob": false,
+        "title": "Inside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "338741044",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3992090619"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992008978",
+        "repostedJob": false,
+        "title": "Sales Representatives",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "13765188",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3992008978"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992029891",
+        "repostedJob": false,
+        "title": "Senior Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "95965123",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3992029891"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3838916581",
+        "repostedJob": true,
+        "title": "Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "520839671",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3838916581"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3827940897",
+        "repostedJob": true,
+        "title": "Sales Development Representative, East",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "486044166",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3827940897"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3974928534",
+        "repostedJob": true,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "357980172",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3974928534"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992506787",
+        "repostedJob": false,
+        "title": "Car Salesperson",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "545487531",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM",
+        "entityUrn": "urn:li:fsd_jobPosting:3992506787"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3993052063",
+        "repostedJob": false,
+        "title": "Sales Agent",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "4476741",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3993052063"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3974933217",
+        "repostedJob": true,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "357980172",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3974933217"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3989734256",
+        "repostedJob": false,
+        "title": "Inside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "379972203",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM",
+        "entityUrn": "urn:li:fsd_jobPosting:3989734256"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3935357440",
+        "repostedJob": true,
+        "title": "Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "211399900",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3935357440"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3907432014",
+        "repostedJob": true,
+        "title": "Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "141806712",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3907432014"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3936928585",
+        "repostedJob": true,
+        "title": "Sales Associate",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "4952706",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3936928585"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3970470727",
+        "repostedJob": true,
+        "title": "TECHNICAL SALES REPRESENTATIVE",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "32677890",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3970470727"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3956347447",
+        "repostedJob": true,
+        "title": "Senior Associate - Sales Operations (R-16411)",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "348317167",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3956347447"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3781133955",
+        "repostedJob": true,
+        "title": "Inside Sales Representative - MPS",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "54716969",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3781133955"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3991983594",
+        "repostedJob": false,
+        "title": "Sales Development Representative (Entry-level)",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "1079529559",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3991983594"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3984647871",
+        "repostedJob": true,
+        "title": "Account Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "630862073",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3984647871"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992510962",
+        "repostedJob": false,
+        "title": "Inside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "564462177",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3992510962"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3828375666",
+        "repostedJob": true,
+        "title": "Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "48887239",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3828375666"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3971185838",
+        "repostedJob": true,
+        "title": "Inside Sales Agent",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "383773762",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3971185838"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3956358243",
+        "repostedJob": true,
+        "title": "Customer Service Representative/Inside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "31761538",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3956358243"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3917116112",
+        "repostedJob": true,
+        "title": "Sales Representative - Electrical",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "73053025",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3917116112"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3939641257",
+        "repostedJob": true,
+        "title": "Salesperson",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "950240591",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM",
+        "entityUrn": "urn:li:fsd_jobPosting:3939641257"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3956162066",
+        "repostedJob": true,
+        "title": "Associate Hospital Sales Representative - Texas",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "321195177",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3956162066"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3974388142",
+        "repostedJob": true,
+        "title": "Sales Rep",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "5161543",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3974388142"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3990074670",
+        "repostedJob": false,
+        "title": "Field Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "1260840234",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3990074670"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3930267352",
+        "repostedJob": true,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "1033592451",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3930267352"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3971734865",
+        "repostedJob": true,
+        "title": "Inside Sales Representative - Greater New York",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "493621846",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3971734865"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3684318148",
+        "repostedJob": true,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "564414020",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3684318148"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3938993784",
+        "repostedJob": true,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "166025859",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3938993784"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3974525758",
+        "repostedJob": true,
+        "title": "Inside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "479987852",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3974525758"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3694290852",
+        "repostedJob": true,
+        "title": "Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "4012621",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3694290852"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3935386046",
+        "repostedJob": true,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "639567562",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3935386046"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3974315643",
+        "repostedJob": true,
+        "title": "Sales Rep",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "5161543",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3974315643"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3991992725",
+        "repostedJob": false,
+        "title": "Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "982493104",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3991992725"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3956116707",
+        "repostedJob": true,
+        "title": "Carrier Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "21911075",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3956116707"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3938870253",
+        "repostedJob": true,
+        "title": "Sales Development Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "159160428",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3938870253"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3808526818",
+        "repostedJob": true,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "760720960",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3808526818"
+    },
+    {
+        "trackingUrn": "urn:li:jobPosting:3992512198",
+        "repostedJob": false,
+        "title": "Outside Sales Representative",
+        "$recipeTypes": [
+            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
+        ],
+        "posterId": "197930129",
+        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
+        "contentSource": "JOBS_PREMIUM",
+        "entityUrn": "urn:li:fsd_jobPosting:3992512198"
+    }
+]
