@@ -3,33 +3,7 @@ import os
 import json
 from dotenv import load_dotenv
 from linkedin_api import Linkedin
-
-
-
-def write_to_json(data, filename):
-    # Writes to a JSON file
-    with open(filename, 'w', encoding='utf-8') as file:
-        json.dump(data, file, ensure_ascii=False, indent=4)
-
-    print(f"Data written to {filename}")
-
-
-def match_job_titles(jobs, desired_titles):
-    # Normalize desired titles for case-insensitive comparison
-    normalized_desired_titles = [title.lower() for title in desired_titles]
-
-    # Regex pattern to identify "sales representative"
-    pattern = re.compile(r'sales(?:\s+\w+)*\s+representative', re.IGNORECASE)
-    
-    matched_jobs = []
-    for job in jobs:
-        # Normalize job title
-        job_title = job['title'].lower()
-        if pattern.search(job_title):
-            matched_jobs.append(job)
-    
-    print(f"Matched {len(matched_jobs)} jobs")
-    return matched_jobs
+from utils.helpers import read_json_file, match_job_titles, write_to_json
 
 
 # Load environment variables from .env file
@@ -41,9 +15,14 @@ password = os.getenv('PASSWORD')
 api = Linkedin(user_name, password)
 
 # desired_titles = ['AI Engineer','Gen AI Engineer','Conversational AI']
-desired_titles = ['sales representative','sales executive','sales manager']
+desired_titles = ['sales representative','sales executive','sales manager'"Sales Development Specialist",
+    "Arabic Speaking Sales Assosiate",
+    "Sales Development Specialist",
+    "Sales Development Representative",
+    "Sales Associate"]
 
 jobs_results = api.search_jobs(
+    ###### find out what combination of keywords and jobtitle gets most results 
     keywords = 'sales representative',
     job_title = desired_titles,
     # remote = ['2','3'],
@@ -54,10 +33,12 @@ jobs_results = api.search_jobs(
 #    jobs_results = json.load(file)
 
 # Example usage with the existing code
-job_title_matches = match_job_titles(jobs_results, desired_titles)
+job_title_matches, unmatched = match_job_titles(jobs_results, desired_titles)
 
 # Optionally, write the matched jobs to a JSON file
 write_to_json(job_title_matches, 'matched_jobs.json')
+
+write_to_json(unmatched, 'unmatched_jobs.json')
 
 write_to_json(jobs_results, 'jobs.json')
 
