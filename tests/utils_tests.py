@@ -1,42 +1,20 @@
-from utils.helpers import read_json_file, match_job_titles
+from utils.helpers import read_json_file, match_job_titles, write_to_json
 
 
-desired_jobs = [
-  "Engineer",
-  "Designer",
-  "Doctor",
-  "Artist",
-  "Teacher",
-  "Plumber",
-  "Lawyer",
-  "Nurse",
-  "Writer",
-  "Analyst",
-  "Sales Associate",
-  "Project Manager",
-  "Software Developer",
-  "Product Designer",
-  "Marketing Specialist",
-  "Customer Support Representative",
-  "Financial Analyst",
-  "Human Resources Manager",
-  "Chief Executive Officer (CEO)",
-  "Senior Software Development Engineer",
-  "Lead Product Marketing Manager",
-  "Business Intelligence Analyst",
-  "Environmental Health and Safety Specialist",
-  "Director of Human Resources",
-  "Senior Vice President of Sales",
-  "Executive Director of Corporate Communications",
-  "Assistant Vice President of Operations",
-  "Head of Global Supply Chain Management",
-  "Chief Technology Officer of Innovative Solutions",
-  "Vice President of Business Development and Strategic Partnerships"
-]
+desired_jobs = ['sales representative','sales executive','sales manager','Sales Development Specialist',
+    'Arabic Speaking Sales Assosiate',
+    'Sales Development Specialist',
+    'Sales Development Representative',
+    'Sales Specialist',
+    'Sales Associate',
+    'Sales Assistant'
+    ]
 
-test_jobs = read_json_file("tests/testjobs.json")
+test_jobs = read_json_file("jobs.json")
 
-matched_job_titles = match_job_titles(test_jobs,desired_jobs)
+matched_job_titles,unmatched = match_job_titles(test_jobs,desired_jobs)
+
+write_to_json(unmatched, 'unmatched_jobs.json')
 
 print(matched_job_titles)
 

@@ -25,10 +25,15 @@ def match_job_titles(jobs_results, desired_titles):
     for job in jobs_results:
         # Normalize job title
         job_title = job['title'].lower()
+
+        # Creating dictionary to add to array
+        array_dict = {}
         
         # Check if job title contains any of the desired titles 
         if any(desired_title in job_title for desired_title in normalized_desired_titles):
-            matched.append(job['title'])  # Append the job results title
+            array_dict['title'] = job['title']
+            array_dict['trackingUrn'] = job['trackingUrn'].split(":")[3]  # Use .get() to avoid KeyError if 'trackingUrn' is missing
+            matched.append(array_dict)
         else:
             unmatched.append(job['title']) 
     print(f"Matched {len(matched)} job titles, Unmatched {len(unmatched)} ")

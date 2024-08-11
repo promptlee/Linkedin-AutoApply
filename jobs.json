@@ -1,602 +1,62 @@
 [
     {
-        "trackingUrn": "urn:li:jobPosting:3994785640",
+        "trackingUrn": "urn:li:jobPosting:3929602378",
         "repostedJob": true,
-        "title": "Arabic Speaking Sales Assosiate",
+        "title": "Sales Representative II",
         "$recipeTypes": [
             "com.linkedin.deco.recipe.anonymous.Anon1578943416"
         ],
-        "posterId": "399551385",
+        "posterId": "11673833",
         "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM",
-        "entityUrn": "urn:li:fsd_jobPosting:3994785640"
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "entityUrn": "urn:li:fsd_jobPosting:3929602378"
     },
     {
-        "trackingUrn": "urn:li:jobPosting:3960947739",
+        "trackingUrn": "urn:li:jobPosting:3960289962",
         "repostedJob": true,
-        "title": "Inside Sales Specialist",
+        "title": "Product Support Sales Representative",
         "$recipeTypes": [
             "com.linkedin.deco.recipe.anonymous.Anon1578943416"
         ],
-        "posterId": "81977772",
+        "posterId": "40212974",
         "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
         "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3960947739"
+        "entityUrn": "urn:li:fsd_jobPosting:3960289962"
     },
     {
-        "trackingUrn": "urn:li:jobPosting:3997869938",
-        "repostedJob": false,
-        "title": "Sales Development Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "1079529559",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3997869938"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3942847881",
+        "trackingUrn": "urn:li:jobPosting:3927968911",
         "repostedJob": true,
-        "title": "Territory Sales Specialist (Tennessee, North Carolina, South Carolina, Alabama)",
+        "title": "Product Support Sales Representative",
         "$recipeTypes": [
             "com.linkedin.deco.recipe.anonymous.Anon1578943416"
         ],
-        "posterId": "36228930",
+        "posterId": "316618673",
         "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
         "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3942847881"
+        "entityUrn": "urn:li:fsd_jobPosting:3927968911"
     },
     {
-        "trackingUrn": "urn:li:jobPosting:3977768113",
+        "trackingUrn": "urn:li:jobPosting:3961288533",
         "repostedJob": true,
-        "title": "Inside Sales/Online Sales Specialist (Remote - West Florida)",
+        "title": "Outside Factory Sales Representative",
         "$recipeTypes": [
             "com.linkedin.deco.recipe.anonymous.Anon1578943416"
         ],
-        "posterId": "369291796",
+        "posterId": "552115391",
         "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
         "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3977768113"
+        "entityUrn": "urn:li:fsd_jobPosting:3961288533"
     },
     {
-        "trackingUrn": "urn:li:jobPosting:3995446966",
-        "repostedJob": false,
-        "title": "Sales Development Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "1296387",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3995446966"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3978700858",
-        "repostedJob": true,
-        "title": "Joint Replacement Sales Associate-Dallas, Texas",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "384402876",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3978700858"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3980476405",
-        "repostedJob": true,
-        "title": "Field Sales Representative (Egg Harbor Township, NJ)",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "5485703",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3980476405"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3997819797",
-        "repostedJob": true,
-        "title": "Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "338155977",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3997819797"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3962481979",
-        "repostedJob": true,
-        "title": "Telesales Representative - Based anywhere in US/Remote",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "18348547",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3962481979"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3940375514",
-        "repostedJob": true,
-        "title": "Application Specialist (Sales Representative)",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "3518310",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3940375514"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3979982992",
-        "repostedJob": true,
-        "title": "Sales Development Specialist",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "67816742",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3979982992"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3988701377",
+        "trackingUrn": "urn:li:jobPosting:3944139970",
         "repostedJob": true,
         "title": "Outside Sales Representative",
         "$recipeTypes": [
             "com.linkedin.deco.recipe.anonymous.Anon1578943416"
         ],
-        "posterId": "887531395",
+        "posterId": "361642456",
         "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
         "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3988701377"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3997871703",
-        "repostedJob": false,
-        "title": "Sales Development Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "997670725",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3997871703"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3960992105",
-        "repostedJob": true,
-        "title": "Energy Derivative Sales Associate",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "40995622",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3960992105"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3980489788",
-        "repostedJob": true,
-        "title": "Brewery Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "586600082",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3980489788"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3963076120",
-        "repostedJob": true,
-        "title": "Inside Sales Specialist - EAST",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "580282865",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3963076120"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3995854055",
-        "repostedJob": false,
-        "title": "Inside Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "304383596",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3995854055"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3969501156",
-        "repostedJob": true,
-        "title": "Sales Representative ($60k-$80k) No Experience",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "593095089",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3969501156"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3969523146",
-        "repostedJob": true,
-        "title": "Sales Representative ($60k-$80k) No Experience",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "593095089",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3969523146"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3989188755",
-        "repostedJob": true,
-        "title": "Outside Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "366417831",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3989188755"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3978235283",
-        "repostedJob": true,
-        "title": "Inside Sales Associate",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "94284338",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3978235283"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3960903992",
-        "repostedJob": true,
-        "title": "Territory Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "858568000",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3960903992"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3962404830",
-        "repostedJob": true,
-        "title": "Sales and Account Support Specialist",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "9155150",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3962404830"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3978791291",
-        "repostedJob": true,
-        "title": "Residential Sales Representative, Outside Sales Position, Salary + Uncapped Commissions",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "326501510",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3978791291"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3980458819",
-        "repostedJob": true,
-        "title": "Application Specialist (Sales Representative) - Sacramento, CA",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "3518310",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3980458819"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3980532711",
-        "repostedJob": true,
-        "title": "Sales Representative- CA",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "20750222",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3980532711"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3997872274",
-        "repostedJob": true,
-        "title": "Sales Development Representative | Remote | Nationwide",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "190410402",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3997872274"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3997827904",
-        "repostedJob": true,
-        "title": "Sr Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "150567666",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3997827904"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3969522638",
-        "repostedJob": true,
-        "title": "Sales Representative ($60k-$80k) No Experience",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "593095089",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3969522638"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3977115150",
-        "repostedJob": true,
-        "title": "Packaging Sales Representative - Northeast USA",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "680473422",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3977115150"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3943440471",
-        "repostedJob": true,
-        "title": "Inside Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "506466853",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3943440471"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3944550177",
-        "repostedJob": true,
-        "title": "Sales Trainee",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "73053025",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3944550177"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3998918803",
-        "repostedJob": true,
-        "title": "Sales Development Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "407271897",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3998918803"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3973827575",
-        "repostedJob": true,
-        "title": "Inside Sales Representative, OEM",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "595226511",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3973827575"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3998152338",
-        "repostedJob": false,
-        "title": "Sales Development Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "564462177",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3998152338"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3978282709",
-        "repostedJob": true,
-        "title": "Associate Sales Representative (Atlanta, GA)",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "3225298",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3978282709"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3987698970",
-        "repostedJob": true,
-        "title": "Immunohematology Sales Specialist ",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "805377972",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3987698970"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3996847912",
-        "repostedJob": false,
-        "title": "Virtual Sales Representative - TAA",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "29441463",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3996847912"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3978799092",
-        "repostedJob": true,
-        "title": "Territory Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "62684266",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3978799092"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3978287179",
-        "repostedJob": true,
-        "title": "Sales Development Specialist",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "80737113",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3978287179"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3997817988",
-        "repostedJob": true,
-        "title": "Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "338155977",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3997817988"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3969502532",
-        "repostedJob": true,
-        "title": "Sales Representative ($60k-$80k) No Experience",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "593095089",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3969502532"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3977761087",
-        "repostedJob": true,
-        "title": "Outside Sales Associate",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "137672015",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3977761087"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3997802235",
-        "repostedJob": false,
-        "title": "Sales Development Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "459410081",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3997802235"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3980483803",
-        "repostedJob": true,
-        "title": "Pharmaceutical Sales Specialist - R&I Primary Care - Jersey City, NJ",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "32475395",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3980483803"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3960917210",
-        "repostedJob": true,
-        "title": "(Remote) Inside Sales Representative (Uncapped Commission + Base Pay & No Cold Calling)",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "584183270",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3960917210"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3997863389",
-        "repostedJob": false,
-        "title": "Branch Sales Associate (Part Time)",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "4709243",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3997863389"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3985819743",
-        "repostedJob": true,
-        "title": "Sales Associate",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "1996147",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3985819743"
-    },
-    {
-        "trackingUrn": "urn:li:jobPosting:3962402944",
-        "repostedJob": true,
-        "title": "Inside Sales Representative",
-        "$recipeTypes": [
-            "com.linkedin.deco.recipe.anonymous.Anon1578943416"
-        ],
-        "posterId": "9703165",
-        "$type": "com.linkedin.voyager.dash.jobs.JobPosting",
-        "contentSource": "JOBS_PREMIUM_OFFLINE",
-        "entityUrn": "urn:li:fsd_jobPosting:3962402944"
+        "entityUrn": "urn:li:fsd_jobPosting:3944139970"
     }
 ]

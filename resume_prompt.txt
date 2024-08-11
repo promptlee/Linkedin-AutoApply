@@ -1,0 +1,12 @@
+You are tasked with catering your resume to a job description:
+
+your current resume:
+
+<code inserts resume here>
+
+
+Job description:
+
+<code inserts jobs description here>
+
+return the revised resume
