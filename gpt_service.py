@@ -1,32 +1,23 @@
 import os
-import openai
+from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
-# Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = os.getenv('OPENAI_PASSWORD')
-
-###start here
-# import os
-# import asyncio
-# from openai import AsyncOpenAI
-
-# client = AsyncOpenAI(
-#     # This is the default and can be omitted
-#     api_key=os.environ.get("OPENAI_API_KEY"),
-# )
 
 
-# async def main() -> None:
-#     chat_completion = await client.chat.completions.create(
-#         messages=[
-#             {
-#                 "role": "user",
-#                 "content": "Say this is a test",
-#             }
-#         ],
-#         model="gpt-3.5-turbo",
-#     )
+client = OpenAI(
+    # This is the default and can be omitted
+    api_key=os.environ.get("OPENAI_API_KEY"),
+)
 
+chat_completion = client.chat.completions.create(
+    messages=[
+        {
+            "role": "user",
+            "content": "what is this models token limit?",
+        }
+    ],
+    model="gpt-3.5-turbo",
+)
 
-# asyncio.run(main())
+print(chat_completion)

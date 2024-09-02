@@ -1,0 +1,1094 @@
+curl 'https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cache-control: max-age=0' \
+  -H 'cookie: gdId=fc643e03-fbd4-4049-abbf-7ea721f74de8; _cfuvid=APWM5KVoNpsxt.0Fm_2c8AX9afwFm5R5IJljw4eabdg-1723770209242-0.0.1.1-604800000; GSESSIONID=undefined; rl_page_init_referrer=RudderEncrypt%3AU2FsdGVkX1987uHQwjeVxb3SXun2%2FnLLGo5eeQfvKSo%3D; rl_page_init_referring_domain=RudderEncrypt%3AU2FsdGVkX19j%2F3fQjV%2Blq89WwP42u16wXdJ98ffWwH4%3D; cf_clearance=1ucL01jek0YL4BnN3hsiIsgj_nlvek.IXp51GrdfwWA-1723770210-1.0.1.1-2UzaZU86wKZ1gbQ2j8CWyE3Y7ixmDjaGV2hG9F6Udo6ml_.czozoVY0AgY5zeM4Xu._b5HCwGx7gryhJutmWrQ; _optionalConsent=true; _gcl_au=1.1.879634912.1723770211; _fbp=fb.1.1723770210768.355425691484572109; __pdst=cb8888ade08a4fcb80bea392eaf70f69; _tt_enable_cookie=1; _ttp=7M_SMn-S2wwPT2OZ6Hb1hXdsRud; _pin_unauth=dWlkPU1UZzBNR016WkdJdE1qWTJNQzAwWVdabExXSm1NVGN0WWpZellURmhZV1kxWVdGbQ; AFSID=N2RjZTA2OGUtY2M5Yi00N2U5LWI3N2EtYTE1NWVhM2JlNWRi; cass=1; uc=8013A8318C98C5177B0A3483D955305428BECE7D2EAA91FBB62B0E3EA12D50797A696B784BDE02D71900407C62FBB685B27C8D1321070DFEC1F401300B69DBC654CE019B4224412C9252843C5300F596F8B06FF480CE3FBB3983793A7B4E6CECD9911952347CC5245FB50FBEAAB88CCC3C7E78AC6D18019FD54B38C0A276679CAFEA1EB2C9E1B7B5AEB3A95F4A49B2B0; JSESSIONID=9876E0EBE2A551B4706539E10646891F; __cf_bm=4X82rjvIHm9wAsIaUZPXJj1S8d4KhHCOhMjGPbaOWmI-1723777260-1.0.1.1-6MkP1B26VPRUf5TMh7pzNYqisI1koVB7dXp44ynoBoOlhYoGd0UC81_NkLOOGfqUoNBn2wD3GbI7rhtlSDxJfPWctzJ_PSLx17XVBhRY.ds; rsSessionId=1723777261007; ki_s=200550%3A0.0.0.0.1%3B235378%3A0.0.0.0.2%3B235518%3A0.0.0.0.1; indeedCtk=1i5ci4ccriud2801; alr=https%3A%2F%2Fwww.google.com%2F; cdArr=; _dd_s=rum=2&id=5416a3b4-c453-4756-aeb2-752c27f6e7ca&created=1723777260412&expire=1723778761824; at=HaXox5ZsQcCBI13yQZ-J6FXB4NiigMYw_o3OBPFcOTxIrnnxNkyaLrbTgIrt5b62zDt1BpuuM_tDGXBbVIVasfirAD4aBT1QrWJjMjqJBwH_E5-HmFT-40KmE8yGVTw9xO30vIuV1LW1CYQ74M3DOdWfRNfsxpqeXb18wKhMj2kEsmnzUolxvFzJOEzG5K2N-Sos7Rg7vfhSRrSQ6-2ESHPlDG7n3miTcyI9Wehkliw-Jf6eHLP0BIMUZKBPGRjj4voF8UFrE1ECudZyZV1bgeWOtoHH9L0xdWgWhgNBBAPCYcM9r7lR-DUdYPtBwTkwOl-7ld3SXPUpKcqwiZvBGzdVGBNBEBA606twiG8psevKupahWv13wfDnR8FsCqKi1MWa4TVUP_FdqWq0oz6_D65E7nftpVJA2a8_f8pWXHlCnxRoTQ8fvYy40pgopemVYtGGRgBsp1eiDGL8OcfVEYyZnLTGFo-EfXkxUJFSCTRSVfqG26Fm7Hb9C0UvL8mUNp5vpDgiTbfb0c4Uxpo-d81bGz0fZHGcosVp3aNYCUlI7aIV6TqD0ZrZnzC-4PsRlcfPmMun9EyafkiIGaLhAH650VOJ8LUlj-T8Gnvm7-VDpDdTprbqpOgVkUjlZvfBRHNICRy8aoZVtKCdZJNZ8XxPrBOk2oynRNykqXrOSTrX3TFtb7PsRtUzlGTM8k0BtlfRcebNbX154NLPTugbGuJI9TGOhbEQFW4CjUnWvHsTovyK_8DXsrwtio8o-hEHaYq0Pb02uwbE0tfp5z6iwCvRGeZXo_VHqUIGckCuiEbPHWkVNAp4x_g6iX2jeIpMoLhBrN7HIzPq2dB6iiGiZE_6pgJYdj3I7_KjBARY3HadWwVZfejrlFzGWIqURIpzfqIKZkmwTaUqABVlQHFuRqr5N_kZYOSyMDFkZ3HR-0F5D0lm0aUqIIVwCK5fDQ; gdsid=1723770209302:1723778049862:A05AE331DD3202C9CB92F81FC1FA9FF6; ki_r=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D; AWSALB=EBVnq4ax/f7+8AWL41cRVOvNejlQx4nzoG72Itnl1HmG4jnn9GVzJhjgDAUGkN1xDnnQkex8bwP9cAElig2R1SGZMh/Oe7mm0IM4Hrf69ZKfbvplqbUPBqSPqPdf; AWSALBCORS=EBVnq4ax/f7+8AWL41cRVOvNejlQx4nzoG72Itnl1HmG4jnn9GVzJhjgDAUGkN1xDnnQkex8bwP9cAElig2R1SGZMh/Oe7mm0IM4Hrf69ZKfbvplqbUPBqSPqPdf; rsReferrerData=%7B%22currentPageRollup%22%3A%22%2Foverview%2Fworking-at%22%2C%22previousPageRollup%22%3A%22%2Foverview%2Fworking-at%22%2C%22currentPageAbstract%22%3A%22%2FOverview%2FWorking-at-%5BEMP%5D-EI_%5BPRM%5D.htm%22%2C%22previousPageAbstract%22%3A%22%2FOverview%2FWorking-at-%5BEMP%5D-EI_%5BPRM%5D.htm%22%2C%22currentPageFull%22%3A%22https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm%22%2C%22previousPageFull%22%3A%22https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm%22%7D; asst=1723778342.2; rl_user_id=RudderEncrypt%3AU2FsdGVkX1%2BqlD0RHENDRMpJ1uRHYfzWnTRac8%2Btx%2FY%3D; rl_trait=RudderEncrypt%3AU2FsdGVkX1%2FzwH08QOH16qtMs0j9KaNVl1KjRv4HOAILh6J93POTYlLUXix9roaJspMVSXqx6SnYsBju9Ywe0yQOF%2BLNakbSdjLBLPOw%2FeB9Gl9flm2HTkWmAX9eQLqiPq8Z4EGqGpImLCekLFv4mZ9E6gZttNJ5WUwcyJE9eNwRaXjUsGm9GgzuPYbGoLnXVuMZF5UZABjMKmGeRgibTSVhSjCjZTPQLbkc5O033tEDM4uK12qvLbHYwDcJPBGp; rl_group_id=RudderEncrypt%3AU2FsdGVkX1%2BM5uWNpjDr7LBDtPYeB5XexBEgOYHuv1k%3D; rl_group_trait=RudderEncrypt%3AU2FsdGVkX1%2BMrHbG912VvShvBZ%2F663KNbGkK20mZ0v4%3D; rl_anonymous_id=RudderEncrypt%3AU2FsdGVkX1%2FdioxoxqpsYCDd6poi%2F9fkAi2q08XYMIHkk7oinHRRaW9KGoWu8PBwacLAfdBvrOmXD%2FEes0W7Ng%3D%3D; rl_session=RudderEncrypt%3AU2FsdGVkX18CiSG%2BSmOjQ1Wm8GoXWYoVkX1hLgH7j6vM%2BG5oAQkoGTTr2aK7Do2d4be56ADf4Aru0rxQKjxyJ89p46JFYTVk3fjeF0IksGYo1p3Z9Cey5kf0U8Tnv8Zd7CbAJmI38NwgC%2BJn1Kamog%3D%3D; OptanonConsent=isGpcEnabled=0&datestamp=Thu+Aug+15+2024+23%3A19%3A03+GMT-0400+(Eastern+Daylight+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cf892033-b63b-4d0c-88b7-6f028e117eaa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0017%3A1&AwaitingReconsent=false; _rdt_uuid=1723770211129.476d73f8-2869-4ec2-9d81-971993281ee4; ki_t=1723770211365%3B1723770211365%3B1723778343231%3B1%3B24' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://www.google.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://unpkg.com/@dotlottie/player-component@2.7.6/dist/dotlottie-player.mjs' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdnjs.cloudflare.com/ajax/libs/react/17.0.1/umd/react.production.min.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.1/umd/react-dom.production.min.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.7.2/prop-types.min.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://media.glassdoor.com/banner/bh/1138/apple-banner-1586360082349.jpg' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://media.glassdoor.com/sql/1138/apple-squarelogo-1595530154096.png' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/fonts/GlassdoorSans-Regular.woff2?v=20240110' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/css/gd-vendor.bundle.1a1c4.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/css/gd-core.bundle.6cc45.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/css/gd-globalNav.bundle.33f42.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-runtime.bundle.d74e2.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-vendor.bundle.3537d.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-core.bundle.d213f.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/css/9c676bc20bb5b290.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/css/9c676bc20bb5b290.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/css/0368c33f2d79d131.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/css/0368c33f2d79d131.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/css/428f891fca6a405e.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/css/428f891fca6a405e.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/chunks/webpack-588e0710ac2e6d60.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/chunks/framework-499406eaa87f6b23.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/chunks/main-879c8daa54e5c0ba.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/chunks/pages/_app-84dfdb0d4b23104f.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/chunks/465-4abb7cd4f9ae0fa2.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/chunks/pages/Overview/%5Bemployer_overview%5D-2b3c816eb367383b.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/81b77814dc980fe407b58a1939194569df3dfb61/_buildManifest.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/ei-overview-next/assets/_next/static/81b77814dc980fe407b58a1939194569df3dfb61/_ssgManifest.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://media.glassdoor.com/people/sql/1138/apple-tim-cook.png' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/images/awards/bptw/en/badge-2024.png' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://media.glassdoor.com/sqls/1138/apple-squarelogo-1595530154096.png' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://unpkg.com/@dotlottie/player-component@2.7.6/dist/chunk-2TNWIAJO.mjs' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://unpkg.com/' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://unpkg.com/@dotlottie/player-component@2.7.6/dist/chunk-GYETL3PR.mjs' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://unpkg.com/' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://unpkg.com/@dotlottie/player-component@2.7.6/dist/chunk-HDDX7F4A.mjs' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://unpkg.com/' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://unpkg.com/@dotlottie/player-component@2.7.6/dist/chunk-ZWH2ESXT.mjs' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://unpkg.com/' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/fonts/GlassdoorSans-Regular.woff2?v=20240110' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/fonts/GlassdoorSans-Regular.woff2?v=20240110' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/fonts/GlassdoorSans-Semibold.woff2?v=20240110' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/fonts/GlassdoorSans-Extrabold.woff2?v=20240110' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm' \
+  -H 'Origin: https://www.glassdoor.com' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdn.rudderlabs.com/v1.1/rudder-analytics.min.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.googletagmanager.com/gtm.js?id=GTM-PST2JZ&l=gdGlobals' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-alertMessage.bundle.d483c.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-bptwBanner.bundle.25ce6.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-footer.bundle.9af63.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-globalNav.bundle.9baa4.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-skipToLinks.bundle.f375d.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-userAlert.bundle.c01fc.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/garnish/static/js/gd-hardsell-content-wall.bundle.js?v=bffab' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/lottie/global-nav/CommunityReactions.lottie' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/lottie/global-nav/CommunityReactions.lottie' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/lottie/global-nav/MagnifyingGlass.lottie' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/lottie/global-nav/NotificationBell.lottie' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/lottie/global-nav/NotificationBell.lottie' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/lottie/global-nav/Profile.lottie' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/assets/lottie/global-nav/Profile.lottie' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://api.rudderstack.com/sourceConfig/?p=cdn&v=2.48.15&writeKey=2E61Cod1xHlNX1wv1hqFK4HvMMq' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: Basic MkU2MUNvZDF4SGxOWDF3djFocUZLNEh2TU1xOg==' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://glassdoor-dataplane.rudderstack.com/v1/track' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'anonymousid: ZmM2NDNlMDMtZmJkNC00MDQ5LWFiYmYtN2VhNzIxZjc0ZGU4' \
+  -H 'authorization: Basic MkU2MUNvZDF4SGxOWDF3djFocUZLNEh2TU1xOg==' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"channel":"web","context":{"app":{"name":"RudderLabs JavaScript SDK","namespace":"com.rudderlabs.javascript","version":"2.48.15"},"traits":{"locked state":"locked","community id":"66bec0f5c74c0859616c311c","color scheme":"Dark","user registration date":"20240816","user registration month":"August"},"library":{"name":"RudderLabs JavaScript SDK","version":"2.48.15"},"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","os":{"name":"","version":""},"locale":"en-US","screen":{"density":2,"width":1512,"height":982,"innerWidth":589,"innerHeight":772},"timezone":"GMT-0400","sessionId":1723777261007,"campaign":{},"page":{"path":"/Overview/Working-at-Apple-EI_IE1138.11,16.htm","referrer":"https://www.google.com/","referring_domain":"www.google.com","search":"","title":"Working at Apple | Glassdoor","url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","tab_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","initial_referrer":"$direct","initial_referring_domain":""}},"type":"track","messageId":"af45e916-e903-47ea-a30d-e6083401b403","originalTimestamp":"2024-08-16T03:20:59.447Z","anonymousId":"fc643e03-fbd4-4049-abbf-7ea721f74de8","userId":"298240100","event":"page viewed","properties":{"rollup url":"/overview/working-at","abstract url":"/Overview/Working-at-[EMP]-EI_[PRM].htm","full page url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","lashed employer":"Apple","lashed location":"Cupertino, CA","lashed employer id":1138,"lashed industry":"Computer Hardware Development","lashed industry id":200060,"lashed sector":"Information Technology","lashed sector id":10013,"hostname":"www.glassdoor.com","event origin":"rudderstackReady","gtm container id":"GTM-PST2JZ","gtm container version":"1466","page url minus query":"www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","logged in hit":true,"locale":"en-US","user agent string":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","asid - raw":"fc643e03-fbd4-4049-abbf-7ea721f74de8.1723778458.2","asid - clean":"fc643e03-fbd4-4049-abbf-7ea721f74de8.1723778458.2","asid - gdGlobals":"fc643e03-fbd4-4049-abbf-7ea721f74de8.1723778458.2","dos2 a/b test id list":["content_column_layout.prod_column_layout_test_2024_06_14","content_community_company_bowl_cta.prod_community_company_bowl_cta_test_2024_05_10","content_community_messaging.prod_community_messaging_test_2023_01_29","content_company_updates_mesh_graph.updates_mesh_PROD_test","content_conversations_launch.prod_conversations_launch_test_2024_02_23","content_demographic_tng.demographic_tng_test_cxp_5119","content_dni.CXP_4282_PROD","content_ei_contextual_ask_a_question_cta.EPCOMM_510_PROD_test_2023_11_20","content_ei_fishbowl_blended_posts.CXP_3369_PROD_2023_10_11","content_ei_fishbowl_branded_cta_module.experiment_PROD","content_ei_fishbowl_carousel_cta.CXP_3369_PROD","content_ei_fishbowl_carousel_v2.EPCOMM_413_PROD_test","content_ei_fishbowl_co_reg_flow.experiment_PROD","content_ei_fishbowl_interview_job_recommended_posts.CXP_5285_experiment_PROD_2023_12_11","content_ei_fishbowl_job_recommended_posts.CXP_5043_experiment_V3_PROD_20231013","content_ei_fishbowl_pop_up.EPCOMM_505_PROD_test_20230712","content_ei_fishbowl_recommended_bowls.CXP_4824_experiment_PROD","content_ei_fishbowl_tab.CXP_4824_experiment_PROD_082223","content_ei_fishbowl_time_based_points.EPCOMM_5463_PROD_2024_04_18","content_ei_header.nodeComponent_test_20210512","content_ei_header_count.EPCOMM_875_PROD_NOV_22","content_ei_header_overview_cta.EPCOMM_322_PROD_test","content_ei_header_right_rail_interviews.CXP_3490_PROD_0623","content_ei_header_right_rail_polls.CXP-3622_PROD_0725","content_ei_industry_post_carousel.CXP_5178_PROD_2024_1_8","content_ei_overview_module_rebrand.CXP_4958_PROD_2023_09_06","content_ei_public_post_classifier.CXP_5327_PROD_2024_02_28","content_employer_profile_header_global_nav.header_global_nav_prod_nov","content_employer_reviews_graph.PROD_test","content_header_overview_menu.042924_test","content_header_redesign.PROD_test_072324","content_header_redesign_overview.prod_061724","content_indeed.PROD_test","content_interview_details_tng.PROD_test_050724","content_interview_summary.interview_summary_tng_010923","content_interviews_graph.PROD_test","content_interviews_graph_overview.CXP_4965_PROD_test","content_interviews_ui_kit_conversion.CXP_1488_PROD_test","content_move_wwwu.prod_072524","content_new_interviews_survey_redirect.redirect_to_new_surveys_interviews_07_21_2020","content_overview_usadmin.prod_test_2023_02_28","content_review_overview.prod_review_overview_test_2023_12_19","content_review_overview_cta.review_overview_cta_012924","content_reviews_demographic.CXP_1802_PROD_test","content_reviews_details_module.CXP_4982_PROD_20230803","content_reviews_fishbowl_keyword_search.CXP_4897_PROD_test","content_reviews_graph.PROD_test","content_reviews_node.redirect_reviews_node_test_20190425","content_reviews_text_search.CXP_4597_PROD_test","content_salaries_node.exp_content_salaries_catchall","growth_apple_hfa.update_user_apple_endpoint_default_test","growth_banner_cookie.cookie_PROD_31072024","growth_banner_cookie_app_install.cookie_PROD","growth_facebook_hfa.PROD_update_user_facebook_endpoint_default_test","growth_facebook_link_hfa.PROD_update_user_facebook_link_endpoint_default_test","growth_forgot_password_hfa.PROD_update_user_forgot_password_endpoint_default_test","growth_global.tng_community_june_15_20230620","growth_google_hfa.PROD_update_user_google_endpoint_default_test","growth_google_link_hfa.PROD_update_user_google_link_endpoint_default_test","growth_header.search_submit_PROD_20240312","growth_jobs.growth_jobs_default_catchAll","growth_logout_hfa.update_logout_hfa_endpoint_test","growth_logout_nav_hfa.update_logout_nav_hfa_endpoint_test","growth_one_tap.update_user_one_tap_endpoint_default_test","growth_redirect_tld.growth_redirect_tld","growth_spycloud.exp_growth_spycloud_catchAll","growth_user_login_hfa.update_user_login_endpoint_test","growth_user_signup_hfa.update_user_signup_endpoint_test"],"dos2 a/b test treatment list":["enableThreeColumnLayout_control","enableCompanyBowlCta_t1","variant_messaging_t3","company_updates_mesh_graph_t1","enableConversationsLaunch_control","enableDemographicsTNG_t1","showDni_t1","disableExcessModules_control","showVariant_control","enableBrandedCtaModule_t1","showCtaVariant_t2","fishbowlCarousel_control","enableCoRegistrationFlow_t1","enableJobRecommendedPosts_control","enableJobRecommendedPosts_t1","fishbowlPopUp_control","enableRecommendedBowls_t1","enableSameTab_t1","time_based_points_control","nodeComponent_control","count_control","fishbowlCta_control","showHeaderRightRailInterviews_t1","showHeaderRightRailPolls_t1","industryPostCarousel_control","enableOverviewRebrand_t1","public_post_classifier_t1","enableNavHideBehavior_control","content_employer_reviews_graph_t1","header_overview_menu_t1","content_header_redesign_control","content_header_redesign_overview_control","apply_t1","interview_details_tng_t1","interview_tng_t1","interviews_os_graph_t1","interviews_os_graph_t1","interviews_ui_control","move_wwwu_control","redirect_to_new_surveys_interviews_t1","t1","enableReviewOverview_t1","reviewOverview_control","demographic_t1","enableReviewsDetailsModule_t1","showFishbowlCarousel_t1","apply_t1","redirect2Node_t1","enableKWS_t1","showSgocCards_t5","update_user_apple_endpoint_default_t1","t2","t1","update_user_facebook_endpoint_default_t1","update_user_facebook_link_endpoint_default_t1","update_user_forgot_password_endpoint_default_t1","tng_community_june_15_t1","update_user_google_endpoint_default_t1","update_user_google_link_endpoint_default_t1","search_submit_t1","growth_jobs_default","update_logout_hfa_endpoint_t1","update_logout_nav_hfa_endpoint_t1","update_user_one_tap_endpoint_default_t1","growth_redirect_tld_treatment","growth_secure_check_default","update_user_login_endpoint_t1","update_user_signup_endpoint_t1"],"responsive design breakpoint":"default","locked state":"locked","document referrer":"https://www.google.com/","domain id":1,"engaged employer status":"active","untranslated url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","guid - event":"fc643e03-fbd4-4049-abbf-7ea721f74de8","page group":"EI-Overview","page title":"Working at Apple | Glassdoor","page content type":"employer-info:ei-overview","history length":9,"community id - event":"66bec0f5c74c0859616c311c","ip location id":"1154169","ip location type":"C","onetrust groups":"isGpcEnabled=0&datestamp=Thu+Aug+15+2024+23%3A19%3A03+GMT-0400+(Eastern+Daylight+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cf892033-b63b-4d0c-88b7-6f028e117eaa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0017%3A1&AwaitingReconsent=false","platform type id":3,"device type id":1,"view type id":4,"referrer data":{"currentPageRollup":"/overview/working-at","previousPageRollup":"/overview/working-at","currentPageAbstract":"/Overview/Working-at-[EMP]-EI_[PRM].htm","previousPageAbstract":"/Overview/Working-at-[EMP]-EI_[PRM].htm","currentPageFull":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","previousPageFull":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm"},"java enabled":"false","profile id":1140,"bot score - event":99,"http version":"h3","debug data":{"info":{"rudderstack session cookie":"1723777261007","effective connection type":"4g","downlink":10,"round trip time":50,"cookies enabled":true,"previous click durations":[""],"ip":"99.98.12.18","gdGlobals length":14,"core identify sdk called":false,"nidl string":"","gtm unique event id":3181,"sampled event id":"1723778459443_1234205293"},"error":{}},"browser tab visibility state":"visible"},"integrations":{"All":true},"sentAt":"2024-08-16T03:20:59.449Z"}' ;
+curl 'https://cdn.rudderlabs.com/v1.1/js-integrations/Optimizely.min.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdn.cookielaw.org/consent/73ff3b38-2190-4ef0-9fae-b35694c51123/73ff3b38-2190-4ef0-9fae-b35694c51123.json' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://sb.scorecardresearch.com/beacon.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://sb.scorecardresearch.com/b?c1=2&c2=18019367&cs_it=b9&cv=4.0.0%2B2301240627&ns__t=1723778459491&ns_c=UTF-8&cs_ucfr=0&c7=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm&c8=Working%20at%20Apple%20%7C%20Glassdoor&c9=https%3A%2F%2Fwww.google.com%2F' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location' \
+  -H 'accept: application/json' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://www.glassdoor.com/favicon.ico' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.glassdoor.com/favicon.ico' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdn.cookielaw.org/scripttemplates/202407.2.0/otBannerSdk.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdn.cookielaw.org/consent/73ff3b38-2190-4ef0-9fae-b35694c51123/018eaa4f-9e18-7ec8-9767-89220d5fb8b6/en.json' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdn.cookielaw.org/scripttemplates/202407.2.0/assets/otCommonStyles.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cdn.cookielaw.org/scripttemplates/202407.2.0/assets/otCommonStyles.css' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Accept: */*' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.googletagmanager.com/gtm.js?id=GTM-NZVNV6T&l=gdGlobals' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://adservice.google.com/pagead/regclk?auid=879634912.1723770211&ref=www.google.com&url=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm&tft=1723778459603&tfd=883&frm=0&gtm=45He48e0v79249885za200&gcd=13l3l3l3l1&dma=0&npa=0&tag_exp=0' \
+  -X 'POST' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C5TG9KG68TKST8M2I6O0&lib=ttq' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://www.googletagmanager.com/gtag/destination?id=DC-11393501&l=gdGlobals&cx=c' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://static.ads-twitter.com/uwt.js' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-modified-since: Tue, 26 Mar 2024 20:58:07 GMT' \
+  -H 'if-none-match: "bbbcf811d8437a575d796a4c1e5d4fad+gzip+gzip"' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://snap.licdn.com/li.lms-analytics/insight.min.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://s.pinimg.com/ct/core.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.redditstatic.com/ads/pixel.js' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-modified-since: Thu, 20 Jun 2024 19:23:03 GMT' \
+  -H 'if-none-match: "71b328aff914ada8b774bfa8fff542c4"' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://connect.facebook.net/en_US/fbevents.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://js.adsrvr.org/up_loader.1.1.0.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://action.dstillery.com/orbserv/nsjs?adv=cl163344268129202&ns=6428&nc=GlassdoorROS&ncv=48' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://secure.adnxs.com/px?id=1535408&seg=27862047&t=1' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: XANDR_PANID=YyGeC9UfMOnvNeMM7nS06tqCOdvgoGw6G_edt1PYtHoUSlZ3D3mE1ax_s75Yg4Im2CORYQxRWjlIKUAiW4V_yQ8uhwkHrCJDRH6MyMXQBUk.; receive-cookie-deprecation=1' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://cdn.pdst.fm/ping.min.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://adservice.google.com/pagead/regclk?auid=879634912.1723770211&ref=www.google.com&url=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm&tft=1723778459603&tfd=883&frm=0&gtm=45He48e0v79249885za200&gcd=13l3l3l3l1&dma=0&npa=0&tag_exp=0' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://match.prod.bidr.io/cookie-sync/indeed?buyer_user_id=1i5ci4ccriud2801&gtmcb=272434163' \
+  -H 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'Sec-Fetch-Dest: image' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://11393501.fls.doubleclick.net/activityi;src=11393501;type=allpa0;cat=globa0;ord=1;num=8304522881442;npa=0;auiddc=879634912.1723770211;u1=%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm;ps=1;pcor=1393567191;uaa=arm;uab=64;uafvl=Not)A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B127.0.6533.120%7CChromium%3B127.0.6533.120;uamb=0;uam=;uap=macOS;uapv=14.5.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe48e0v9188133762z879249885za201zb79249885;gcd=13l3l3l3l1;dma=0;tag_exp=0;epver=2;~oref=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm?' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: receive-cookie-deprecation=1' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=11393501;type=allpa0;cat=globa0;ord=1;num=8304522881442;npa=0;auiddc=879634912.1723770211;u1=%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm;ps=1;pcor=1393567191;uaa=arm;uab=64;uafvl=Not)A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B127.0.6533.120%7CChromium%3B127.0.6533.120;uamb=0;uam=;uap=macOS;uapv=14.5.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe48e0v9188133762z879249885za201zb79249885;gcd=13l3l3l3l1;dma=0;tag_exp=0;epver=2;~oref=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm?' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: receive-cookie-deprecation=1' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://ad.doubleclick.net/activity;register_conversion=1;src=11393501;type=allpa0;cat=globa0;ord=1;num=8304522881442;npa=0;auiddc=879634912.1723770211;u1=%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm;ps=1;pcor=1393567191;uaa=arm;uab=64;uafvl=Not)A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B127.0.6533.120%7CChromium%3B127.0.6533.120;uamb=0;uam=;uap=macOS;uapv=14.5.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe48e0v9188133762z879249885za201zb79249885;gcd=13l3l3l3l1;dma=0;tag_exp=0;epver=2;~oref=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm?' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://px.ads.linkedin.com/attribution_trigger?pid=3565964&time=1723778459674&url=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Accept: *' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3565964&time=1723778459674&li_adsId=6ad1adc5-074e-431b-9212-7b6be0ed7f18&url=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://s.pinimg.com/ct/lib/main.1b182128.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://connect.facebook.net/signals/config/1499075380345177?v=2.9.164&r=stable&domain=www.glassdoor.com&hme=61ff4e692c87a9a2ce7b19822df2b04638e3ca38b23c1be6c0f1945ccadb2ad5&ex_m=69%2C118%2C104%2C108%2C60%2C4%2C97%2C68%2C16%2C94%2C86%2C50%2C53%2C167%2C170%2C182%2C178%2C179%2C181%2C29%2C98%2C52%2C75%2C180%2C162%2C165%2C175%2C176%2C183%2C127%2C40%2C34%2C139%2C15%2C49%2C189%2C188%2C129%2C18%2C39%2C1%2C42%2C64%2C65%2C66%2C70%2C90%2C17%2C14%2C93%2C89%2C88%2C105%2C51%2C107%2C38%2C106%2C30%2C91%2C26%2C163%2C166%2C136%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C56%2C61%2C63%2C73%2C99%2C27%2C74%2C9%2C8%2C78%2C47%2C21%2C101%2C100%2C102%2C95%2C10%2C20%2C3%2C19%2C83%2C55%2C81%2C33%2C72%2C0%2C92%2C32%2C80%2C85%2C46%2C45%2C84%2C37%2C5%2C87%2C79%2C43%2C35%2C82%2C2%2C36%2C62%2C41%2C103%2C44%2C77%2C67%2C109%2C59%2C58%2C31%2C96%2C57%2C54%2C48%2C76%2C71%2C24%2C110' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://s3.amazonaws.com/ki.js/67252/fQH.js' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'If-Modified-Since: Mon, 05 Aug 2024 18:22:22 GMT' \
+  -H 'If-None-Match: "50d380089161189cfe70e4db47841bf4"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://px.ads.linkedin.com/attribution_trigger?pid=3565964&time=1723778459674&url=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://px.ads.linkedin.com/wa/' \
+  -H 'accept: *' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"pids":[3565964],"scriptVersion":165,"time":1723778459681,"domain":"glassdoor.com","url":"https://glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","pageTitle":"Working at Apple | Glassdoor","websiteSignalRequestId":"af8fe11e-bb43-b3d2-ab95-efce6db3e0ca","isTranslated":false,"liFatId":"","liGiant":"","misc":{"psbState":-4},"isLinkedInApp":false,"hem":null,"signalType":"PAGE_VISIT"}' ;
+curl 'https://ct.pinterest.com/user/?tid=2613665976123&pd=%7B%22np%22%3A%22gtm%22%2C%22pin_unauth%22%3A%22dWlkPU1UZzBNR016WkdJdE1qWTJNQzAwWVdabExXSm1NVGN0WWpZellURmhZV1kxWVdGbQ%22%7D&cb=1723778459684&dep=2%2CPAGE_LOAD' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://pixels.spotify.com/v1/ingest' \
+  -H 'accept: application/json' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"batch":[{"pid":"a6e14507cef94c8ab6b1961a430344b8","sid":"13a4fb9954af4c439b7c0a1935bd95f1","events":[{"action":"view","time":1723778459.678,"group":null,"label":null,"experiment":null,"body":{"url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","referrer":"https://www.google.com/","inIframe":false,"windowWidth":589,"windowHeight":772,"timezoneOffset":240,"viewParams":{}}}],"uid":"cb8888ade08a4fcb80bea392eaf70f69","time":1723778459.686,"pixel_version":"2.0.0-a","pixel_id":"54f094118a214c4e8aa8e0a2d8d66a11"}]}' ;
+curl 'https://ct.pinterest.com/v3/?tid=2613665976123&pd=%7B%22np%22%3A%22gtm%22%2C%22pin_unauth%22%3A%22dWlkPU1UZzBNR016WkdJdE1qWTJNQzAwWVdabExXSm1NVGN0WWpZellURmhZV1kxWVdGbQ%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22if%22%3Afalse%2C%22sh%22%3A982%2C%22sw%22%3A1512%2C%22mh%22%3A%221b182128%22%2C%22is_eu%22%3Afalse%2C%22epikDataSource%22%3Anull%2C%22derivedEpikDataSource%22%3Anull%2C%22unauthIdDataSource%22%3A%22fpc_ls%22%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Not)A%3BBrand%22%2C%22version%22%3A%2299%22%7D%2C%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22127%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22127%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2214.5.0%22%2C%22uaFullVersion%22%3A%22127.0.6533.120%22%2C%22ecm_enabled%22%3Atrue%7D&cb=1723778459686' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://insight.adsrvr.org/track/up?adv=rgpidjj&ref=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm&upid=he6le8e&upv=1.1.0&paapi=1' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://analytics.tiktok.com/i18n/pixel/static/main.MWRmMjhhNDhjNA.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://pixels.spotify.com/v1/ingest' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://pixel-config.reddit.com/pixels/t2_1xs4fw53/config' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://www.redditstatic.com/ads/conversions-config/v1/pixel/config/t2_1xs4fw53_telemetry' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://alb.reddit.com/rp.gif?ts=1723778459691&id=t2_1xs4fw53&event=PageVisit&m.itemCount=undefined&m.value=&m.valueDecimal=undefined&m.currency=undefined&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=476d73f8-2869-4ec2-9d81-971993281ee4&aaid=&em=&external_id=&idfa=&integration=gtm&opt_out=0&sh=1512&sw=982&v=rdt_e9773deb&dpm=&dpcc=&dprc=' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://alb.reddit.com/rp.gif?ts=1723778459691&id=t2_1xs4fw53&event=PageVisit&m.itemCount=undefined&m.value=&m.valueDecimal=undefined&m.currency=undefined&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=476d73f8-2869-4ec2-9d81-971993281ee4&aaid=&em=&external_id=&idfa=&integration=gtm&opt_out=0&sh=1512&sw=982&v=rdt_e9773deb&dpm=&dpcc=&dprc=' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'priority: i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://t.co/i/adsct?bci=3&eci=2&event_id=8e6eb3bb-63f1-40cc-bfd1-361e4fcd217f&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=69f775b1-19a1-4c02-85b4-67fb55f57cf9&tw_document_href=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nuwoh&type=javascript&version=2.3.30' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://analytics.twitter.com/i/adsct?bci=3&eci=2&event_id=8e6eb3bb-63f1-40cc-bfd1-361e4fcd217f&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=69f775b1-19a1-4c02-85b4-67fb55f57cf9&tw_document_href=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nuwoh&type=javascript&version=2.3.30' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://analytics.tiktok.com/i18n/pixel/static/identify_c2008b8c.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"before_init","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":97,"time_to_navigation_start":981,"latency":0,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.-1","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[{"name":"https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C5TG9KG68TKST8M2I6O0&lib=ttq","duration":53.60000002384186},{"name":"https://analytics.tiktok.com/i18n/pixel/static/main.MWRmMjhhNDhjNA.js","duration":0}],"pixel_list":"","pixel_api_conflict_flag":false,"stack":"unknown"}}' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"identify_init_start","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":98,"time_to_navigation_start":982,"latency":0,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.-1","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[],"pixel_list":"","pixel_api_conflict_flag":false}}' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"init_start","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":98,"time_to_navigation_start":982,"latency":0,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.-1","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[],"pixel_list":"","pixel_api_conflict_flag":false}}' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"before_ad_info_init_start","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":98,"time_to_navigation_start":982,"latency":0,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.-1","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[],"pixel_list":"","pixel_api_conflict_flag":false}}' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"init_end","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":98,"time_to_navigation_start":982,"latency":0,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[],"pixel_list":"","pixel_api_conflict_flag":false}}' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"ad_info_init_end","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":100,"time_to_navigation_start":984,"latency":-1,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[],"pixel_list":"C5TG9KG68TKST8M2I6O0","pixel_api_conflict_flag":false,"enabledAdTracking":true}}' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"pixel_send","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":102,"time_to_navigation_start":986,"latency":0,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[],"pixel_list":"C5TG9KG68TKST8M2I6O0","pixel_api_conflict_flag":false,"event":"Pageview"}}' ;
+curl 'https://analytics.tiktok.com/api/v2/pixel' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"event":"Pageview","event_id":"","message_id":"messageId-1723778459707-3690395170192-C5TG9KG68TKST8M2I6O0","is_onsite":false,"timestamp":"2024-08-16T03:20:59.707Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"7M_SMn-S2wwPT2OZ6Hb1hXdsRud"},"pixel":{"code":"C5TG9KG68TKST8M2I6O0","runtime":"1"},"page":{"url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","referrer":"https://www.google.com/","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.0"},"session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM-C5TG9KG68TKST8M2I6O0","pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0::8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da-C5TG9KG68TKST8M2I6O0","variation_id":"test_2_single_track","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"},"_inspection":{},"properties":{},"signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"missing"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"missing"},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"}}}' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"pixel_send","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":102,"time_to_navigation_start":986,"latency":0,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[],"pixel_list":"C5TG9KG68TKST8M2I6O0","pixel_api_conflict_flag":false,"event":"ViewContent"}}' ;
+curl 'https://analytics.tiktok.com/api/v2/pixel' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"event":"ViewContent","event_id":"","message_id":"messageId-1723778459707-9596566420256-C5TG9KG68TKST8M2I6O0","is_onsite":false,"timestamp":"2024-08-16T03:20:59.707Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"7M_SMn-S2wwPT2OZ6Hb1hXdsRud"},"pixel":{"code":"C5TG9KG68TKST8M2I6O0","runtime":"1"},"page":{"url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","referrer":"https://www.google.com/","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.0"},"session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM-C5TG9KG68TKST8M2I6O0","pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0::8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da-C5TG9KG68TKST8M2I6O0","variation_id":"test_2_single_track","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"},"_inspection":{},"properties":{},"signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"missing"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"missing"},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"}}}' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"identify_init_end","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":107,"time_to_navigation_start":991,"latency":9,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","partner":"non","ext_json":{"performance":[{"name":"https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C5TG9KG68TKST8M2I6O0&lib=ttq","duration":53.60000002384186},{"name":"https://analytics.tiktok.com/i18n/pixel/static/identify_c2008b8c.js","duration":0}],"pixel_list":"C5TG9KG68TKST8M2I6O0","pixel_api_conflict_flag":false}}' ;
+curl 'https://action.media6degrees.com/orbserv/nsjs?adv=cl163344268129202&ns=6428&nc=GlassdoorROS&ncv=48' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://11393501.fls.doubleclick.net/activityi;dc_pre=CKuljZbH-IcDFZw4RAgd3hYNsQ;src=11393501;type=allpa0;cat=globa0;ord=1;num=8304522881442;npa=0;auiddc=879634912.1723770211;u1=%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm;ps=1;pcor=1393567191;uaa=arm;uab=64;uafvl=Not)A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B127.0.6533.120%7CChromium%3B127.0.6533.120;uamb=0;uam=;uap=macOS;uapv=14.5.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe48e0v9188133762z879249885za201zb79249885;gcd=13l3l3l3l1;dma=0;tag_exp=0;epver=2;~oref=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm?' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: receive-cookie-deprecation=1' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"custom_timer","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":314,"time_to_navigation_start":1198,"latency":1000,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","custom_name":"auto_config_content","partner":"non","ext_json":{"performance":[],"pixel_list":"C5TG9KG68TKST8M2I6O0","pixel_api_conflict_flag":false}}' ;
+curl 'https://analytics.tiktok.com/api/v2/pixel/act' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw $'{"event_id":"","message_id":"messageId-1723778459919-8467569686342","is_onsite":false,"timestamp":"2024-08-16T03:20:59.919Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"7M_SMn-S2wwPT2OZ6Hb1hXdsRud"},"pixel":{"code":"C5TG9KG68TKST8M2I6O0","runtime":"1","codes":"C5TG9KG68TKST8M2I6O0"},"page":{"url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","referrer":"https://www.google.com/","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.0"},"session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0::8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","variation_id":"test_2_single_track","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","index":4},"_inspection":{},"properties":{},"signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"missing"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"missing"},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"}},"action":"Metadata","auto_collected_properties":{"page_trigger":"PageView","content_data":{"open_graph":"{\\"og:title\\":\\"Working at Apple\\",\\"og:description\\":\\"See what employees say it\'s like to work at Apple. Salaries, reviews, and more - all posted by employees working at Apple.\\",\\"og:site_name\\":\\"Glassdoor\\",\\"og:type\\":\\"website\\"}","microdata":"[]","json_ld":"[{\\"@context\\":\\"https://schema.org/\\",\\"@type\\":\\"Review\\",\\"reviewRating\\":{\\"@type\\":\\"Rating\\",\\"ratingValue\\":\\"5\\"},\\"author\\":{\\"@type\\":\\"Person\\"},\\"reviewBody\\":\\"Impactful Place to Work\\",\\"itemReviewed\\":{\\"@context\\":\\"https://schema.org/\\",\\"@type\\":\\"Organization\\",\\"name\\":\\"Apple\\",\\"sameAs\\":\\"http://www.apple.com\\"}},{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"FAQPage\\",\\"mainEntity\\":[{\\"@type\\":\\"Question\\",\\"name\\":\\"How do employees rate Apple?\\",\\"acceptedAnswer\\":{\\"@type\\":\\"Answer\\",\\"text\\":\\"Employees <a href=\\\\\\"/Reviews/Apple-Reviews-E1138.htm\\\\\\">rate Apple 4.1 out of 5 stars</a> based on 38,966 anonymous reviews on Glassdoor. In <a href=\\\\\\"/Award/Best-Places-to-Work-2009-LST_KQ0,24.htm\\\\\\">2009</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2010-LST_KQ0,24.htm\\\\\\">2010</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2011-LST_KQ0,24.htm\\\\\\">2011</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2012-LST_KQ0,24.htm\\\\\\">2012</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2013-LST_KQ0,24.htm\\\\\\">2013</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2014-LST_KQ0,24.htm\\\\\\">2014</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2015-LST_KQ0,24.htm\\\\\\">2015</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2016-LST_KQ0,24.htm\\\\\\">2016</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2017-LST_KQ0,24.htm\\\\\\">2017</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2018-LST_KQ0,24.htm\\\\\\">2018</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2019-LST_KQ0,24.htm\\\\\\">2019</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2020-LST_KQ0,24.htm\\\\\\">2020</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2021-LST_KQ0,24.htm\\\\\\">2021</a>, <a href=\\\\\\"/Award/Best-Places-to-Work-2022-LST_KQ0,24.htm\\\\\\">2022</a> and <a href=\\\\\\"/Award/Best-Places-to-Work-LST_KQ0,19.htm\\\\\\">2024</a>,  Apple employees have voted their company to be one of Glassdoor’s Best Places to Work.\\"}},{\\"@type\\":\\"Question\\",\\"name\\":\\"How can I get a job at Apple?\\",\\"acceptedAnswer\\":{\\"@type\\":\\"Answer\\",\\"text\\":\\"To get a job at Apple, browse <a href=\\\\\\"/Jobs/Apple-Jobs-E1138.htm\\\\\\">currently open positions</a> and apply for a job near you. Once you get a positive response, make sure to find out about the <a href=\\\\\\"/Interview/Apple-Interview-Questions-E1138.htm\\\\\\">interview process at Apple</a> and prepare for tough questions.\\"}},{\\"@type\\":\\"Question\\",\\"name\\":\\"Do people recommend working at Apple?\\",\\"acceptedAnswer\\":{\\"@type\\":\\"Answer\\",\\"text\\":\\"Overall, 80% of employees would recommend <a href=\\\\\\"/Overview/Working-at-Apple-EI_IE1138.11,16.htm\\\\\\">working at Apple</a> to a friend. This is based on 38,966 anonymously submitted reviews on Glassdoor.\\"}},{\\"@type\\":\\"Question\\",\\"name\\":\\"How do job seekers rate their interview experience at Apple?\\",\\"acceptedAnswer\\":{\\"@type\\":\\"Answer\\",\\"text\\":\\"64% of job seekers rate their <a href=\\\\\\"/Interview/Apple-Interview-Questions-E1138.htm\\\\\\">interview experience at Apple</a> as positive. Candidates give an average difficulty score of 3 out of 5 (where 5 is the highest level of difficulty) for their job interview at Apple.\\"}},{\\"@type\\":\\"Question\\",\\"name\\":\\"How do employees rate the business outlook for Apple?\\",\\"acceptedAnswer\\":{\\"@type\\":\\"Answer\\",\\"text\\":\\"73% of employees think that <a href=\\\\\\"/Reviews/Apple-Reviews-E1138.htm\\\\\\">Apple has a positive business outlook</a>. This is based on anonymous employee reviews submitted on Glassdoor.\\"}}]},{\\"@context\\":\\"https://schema.org/\\",\\"@type\\":\\"EmployerAggregateRating\\",\\"itemReviewed\\":{\\"@type\\":\\"Organization\\",\\"sameAs\\":\\"http://www.apple.com\\",\\"name\\":\\"Apple\\"},\\"ratingValue\\":\\"4.1\\",\\"bestRating\\":\\"5\\",\\"worstRating\\":\\"1\\",\\"ratingCount\\":\\"44631\\"}]","meta":"{\\"title\\":\\"Working at Apple | Glassdoor\\",\\"meta:description\\":\\"See what employees say it\'s like to work at Apple. Salaries, reviews, and more - all posted by employees working at Apple.\\"}"}}}' ;
+curl 'https://match.adsrvr.org/track/upb/?adv=rgpidjj&ref=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm&upid=he6le8e&upv=1.1.0&paapi=1' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://ct.pinterest.com/static/ct/token_create.js' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://ct.pinterest.com/ct.html' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://adservice.google.com/ddm/fls/z/dc_pre=CKuljZbH-IcDFZw4RAgd3hYNsQ;src=11393501;type=allpa0;cat=globa0;ord=1;num=8304522881442;npa=0;auiddc=*;u1=%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm;ps=1;pcor=1393567191;uaa=arm;uab=64;uafvl=Not)A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B127.0.6533.120%7CChromium%3B127.0.6533.120;uamb=0;uam=;uap=macOS;uapv=14.5.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe48e0v9188133762z879249885za201zb79249885;gcd=13l3l3l3l1;dma=0;tag_exp=0;epver=2;~oref=https%3A%2F%2Fwww.glassdoor.com%2FOverview%2FWorking-at-Apple-EI_IE1138.11%2C16.htm' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'Referer: https://11393501.fls.doubleclick.net/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://match.prod.bidr.io/cookie-sync/indeed?buyer_user_id=1i5ci4ccriud2801&gtmcb=272434163&_bee_ppp=1' \
+  -H 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'Sec-Fetch-Dest: image' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://cl.qualaroo.com/ki.js/67252/fQHqoo.js' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-modified-since: Mon, 05 Aug 2024 18:22:23 GMT' \
+  -H 'if-none-match: "5b3950172a492fd7e975ac00d3e87874"' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://geo.qualaroo.com/json/' \
+  -H 'accept: application/javascript' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://dntcl.qualaroo.com/frame.html' \
+  -H 'Referer: https://www.glassdoor.com/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'https://pxl.indeed.com/usersync?partner=beeswax&beeswax_id=&buyer_user_id=1i5ci4ccriud2801' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'priority: i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' ;
+curl 'https://analytics.tiktok.com/api/v2/monitor' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"metric_name":"custom_timer","pixel_code":"C5TG9KG68TKST8M2I6O0","platform":0,"app_name":"external","net_type":"4g","placement":"non","lib":{"lib_version":"2.2.0","ttq_name":"ttq"},"in_iframe":2,"time_to_last_start":2884,"time_to_navigation_start":3768,"latency":1800,"page_url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","att_status":3,"pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0","session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","variation_id":"test_2_single_track","load_id":"8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","ad_id":"undefined","creative_id":"undefined","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","pixel_monitor_version":"v2","custom_name":"auto_config_click","partner":"non","ext_json":{"performance":[],"pixel_list":"C5TG9KG68TKST8M2I6O0","pixel_api_conflict_flag":false}}' ;
+curl 'https://analytics.tiktok.com/api/v2/pixel/act' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.glassdoor.com' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://www.glassdoor.com/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  --data-raw '{"event_id":"","message_id":"messageId-1723778462488-6118495195895","is_onsite":false,"timestamp":"2024-08-16T03:21:02.488Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"7M_SMn-S2wwPT2OZ6Hb1hXdsRud"},"pixel":{"code":"C5TG9KG68TKST8M2I6O0","runtime":"1","codes":"C5TG9KG68TKST8M2I6O0"},"page":{"url":"https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.11,16.htm","referrer":"https://www.google.com/","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.0"},"session_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc::jDg-cKFMv_fzuqM4h-eM","pageview_id":"da766c0f-5b7d-11ef-93fa-0200170c8afc-Q727C.4.0::8f1429ab-5b7e-11ef-aaa7-b8cef6a0e1da","variation_id":"test_2_single_track","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","index":4},"_inspection":{},"properties":{},"signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"missing"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"missing"},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"}},"action":"Click","auto_collected_properties":{"page_trigger":"Click","trigger_element":{"tag":"DIV","attributes":{"class":"contentMenu__contentMenuStyles__mobileContentMenuContainer","id":"HamburgerButton"},"inner_text":"Community\nJobs\nCompanies\nSalaries","xpath":"/HTML/body[1]/header[1]/div[1]/div[1]/div[2]","num_child_buttons":7,"timestamp":"2024-08-16T03:21:02.488Z","position":{"x":0,"y":166.5}}}}'
